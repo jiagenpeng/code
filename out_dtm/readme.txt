@@ -1,0 +1,1 @@
+The out_dtm folder is used to read DTM data. The program reads multiple TIF files, combines them into a new TIF file, and stores it in this folder.
