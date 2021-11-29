@@ -1,0 +1,2 @@
+The code part includes three Python files, mainex1.py is the main program, visu.py is the Python file converted from visu. ui.
+Before running, rewrite the "path" in readdatas.py to the path where these files are saved. Then run mainex1.py directly.
