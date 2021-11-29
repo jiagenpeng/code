@@ -1,0 +1,1 @@
+All the running code is in the code1 folder, and the dtm, dot, and dsm folders hold three kinds of datasets downloaded from the DefraData website for reading and visualization of the program.
